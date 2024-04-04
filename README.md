@@ -2,7 +2,7 @@
 
 today, i'm building radios for penguins at Woods Hole Oceanographic Institute. tomorrow, who knows? 
 
-<img align="center" width="200" height="200" src="seal.jpg" />
+<img align="center" width="300" src="seal.jpg" />
 
 <!--
 **keweaver/keweaver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
