@@ -1,6 +1,6 @@
 ### hey! im kel
 
-today, i'm building radios for penguins at Woods Hole Oceanographic Institute. tomorrow, who knows? 
+today, i'm building radios for penguins at the Woods Hole Oceanographic Institution. tomorrow, who knows? 
 
 <img align="right" width="300" src="seal.jpg" />
 
